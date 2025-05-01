@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Brendhak/Banner-Brendha/raw/main/banner_outra_opcao.png" alt="Header Image" />
+  <img src="https://github.com/Brendhak/Banner-Brendha/raw/main/github-versão_preta(2).png" alt="Header Image" />
 </p>
 
 ---
