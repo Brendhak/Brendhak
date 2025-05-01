@@ -16,9 +16,10 @@ Por isso, quero me *aperfeiçoar* cada vez mais! 🚀
 
 ## 💡 Habilidades Pessoais
 
-- ✅ Proatividade  
-- ✅ Trabalho em equipe  
-- ✅ Organização  
+- 📍 Proatividade  
+- 📍 Trabalho em equipe  
+- 📍 Organização
+- 📍 Disposição em aprender
 
 ---
 
