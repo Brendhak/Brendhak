@@ -16,10 +16,10 @@ Por isso, quero me *aperfeiçoar* cada vez mais! 🚀
 
 ## 💡 Habilidades Pessoais
 
-- 📍 Proatividade  
-- 📍 Trabalho em equipe  
-- 📍 Organização
-- 📍 Disposição em aprender
+- Proatividade  
+- Trabalho em equipe  
+- Organização
+- Disposição em aprender
 
 ---
 
@@ -56,6 +56,8 @@ Por isso, quero me *aperfeiçoar* cada vez mais! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
 </p>
+
+
 
 ---
 
