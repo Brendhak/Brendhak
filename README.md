@@ -6,7 +6,7 @@
 ## Sobre mim:
 Olá, eu sou a **BrendhaK**! 👩‍💻
 
-Tenho 19 anos e atualmente sou estudante de *Análise e Desenvolvimento de Sistemas* na Universidade Estadual do Maranhão (**UEMA**). Estou no segundo período do curso e sou movida pela vontade de contribuir de forma significativa para a sociedade através da tecnologia.
+  Tenho 20 anos e atualmente sou estudante de *Análise e Desenvolvimento de Sistemas* na Universidade Estadual do Maranhão (**UEMA**). Estou no terceiro período do curso e sou movida pela vontade de contribuir de forma significativa para a sociedade através da tecnologia.
 
 Já venho da área de TI desde o ensino médio, quando estudei no Instituto Federal do Maranhão (**IFMA**). Tenho grande interesse em seguir carreira como **Desenvolvedora**, mas também estou aberta a explorar outras áreas da TI, como **Quality Assurance (QA)** e **Engenharia de Prompt**. Acredito que esse mundo gigante da tecnologia tem muito a me oferecer. Sou apaixonada por aprender coisas novas, enfrentar desafios e construir soluções que possam impactar positivamente a vida das pessoas.
 
