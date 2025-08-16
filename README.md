@@ -55,6 +55,10 @@ Por isso, quero me *aperfeiçoar* cada vez mais! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />    
 </p>
 
 
@@ -73,7 +77,8 @@ Por isso, quero me *aperfeiçoar* cada vez mais! 🚀
 
 - Desenvolvimento Full Stack  
 - Análise e Ciência de Dados  
-- Engenharia de Prompt  
+- Engenharia de Prompt
+- Q.A
 
 ---
 
