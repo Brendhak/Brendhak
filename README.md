@@ -41,7 +41,7 @@ Por isso, quero me *aperfeiçoar* cada vez mais! 🚀
   <a href="https://github.com/BrendhaK">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://lattes.cnpq.br/SEU-CÓDIGO-AQUI">
+  <a href="https://lattes.cnpq.br/https://lattes.cnpq.br/8532967487904460">
     <img src="https://img.shields.io/badge/Lattes-0072C6?style=for-the-badge&logo=readme&logoColor=white"/>
   </a>
 </p>
